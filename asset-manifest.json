@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capture-the-flag-pwa/static/css/main.2d2cd30c.css",
+    "main.js": "/capture-the-flag-pwa/static/js/main.f82a2418.js",
+    "static/js/198.2e97a3fc.chunk.js": "/capture-the-flag-pwa/static/js/198.2e97a3fc.chunk.js",
+    "index.html": "/capture-the-flag-pwa/index.html",
+    "main.2d2cd30c.css.map": "/capture-the-flag-pwa/static/css/main.2d2cd30c.css.map",
+    "main.f82a2418.js.map": "/capture-the-flag-pwa/static/js/main.f82a2418.js.map",
+    "198.2e97a3fc.chunk.js.map": "/capture-the-flag-pwa/static/js/198.2e97a3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2cd30c.css",
+    "static/js/main.f82a2418.js"
+  ]
+}
