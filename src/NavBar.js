@@ -10,6 +10,7 @@ const NavBar = () => {
       <ul>
         <li><Link to="/map">Map</Link></li>
         <li><Link to="/login">Login</Link></li>
+        <li><Link to="/edit">Bearbeiten</Link></li>
         {user && <span style={{ float: 'right' }}>Welcome, {user.name}</span>}
       </ul>
     </nav>

@@ -5,6 +5,7 @@ import Login from './Login';
 import NavBar from './NavBar';
 import MapView from './MapView'
 import Logout from './Logout';
+import MapEdit from './MapEdit';
 import { UserProvider } from './UserContext';
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
         <Route path="/map" element={<MapView />} />
         <Route path="/login" element={<Login />} />
         <Route path="/logout" element={<Logout />} />
+        <Route path="/edit" element={<MapEdit />} />
       </Routes>
      </Router>
     </UserProvider>
