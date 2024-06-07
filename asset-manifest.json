@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/capture-the-flag-pwa/static/css/main.2d2cd30c.css",
-    "main.js": "/capture-the-flag-pwa/static/js/main.3889337a.js",
+    "main.js": "/capture-the-flag-pwa/static/js/main.eee9f624.js",
     "static/js/198.2e97a3fc.chunk.js": "/capture-the-flag-pwa/static/js/198.2e97a3fc.chunk.js",
     "service-worker.js": "/capture-the-flag-pwa/service-worker.js",
     "index.html": "/capture-the-flag-pwa/index.html",
     "main.2d2cd30c.css.map": "/capture-the-flag-pwa/static/css/main.2d2cd30c.css.map",
-    "main.3889337a.js.map": "/capture-the-flag-pwa/static/js/main.3889337a.js.map",
+    "main.eee9f624.js.map": "/capture-the-flag-pwa/static/js/main.eee9f624.js.map",
     "198.2e97a3fc.chunk.js.map": "/capture-the-flag-pwa/static/js/198.2e97a3fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d2cd30c.css",
-    "static/js/main.3889337a.js"
+    "static/js/main.eee9f624.js"
   ]
 }
